@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="122e7215-8f27-4418-a09b-00db82b7f090" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Tech_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/783e4d03-95d6-4ff0-90aa-1bb5b80d1dcd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/189a21f163cd0264f96541f18245634e31fc1133" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19359a61ae2446b51b549167b014da2fcf265768" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/427ebe8fe34e214945f295efd2f409f2f9a12226" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/444f0df80c5815717dd4c21b5430766e85cb3044" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/642a5418174789a062fd581cbac8de7239610fe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82b22525c3fa3bdd19e1d1b3a9d5eb8b315af64f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92303719da99455690e3c1e819f2cc255107464c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e949f4291234a613cf62045973fd74b566c1ddbe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech_Test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech_Test/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech_Test/routers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech_Test/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech_Test/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech_Test/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech_Test/yasg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/21167.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/21196.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/21230.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/21309.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/21350.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/21529.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/21530.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/21578.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/21635.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/21744.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/0002_auto_20210127_2246.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/0003_auto_20210127_2248.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/0004_auto_20210127_2250.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/0005_auto_20210127_2251.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/0006_auto_20210128_0224.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teacher_db/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="staging" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$USER_HOME$/Desktop/smia/smia_local_staging/django" value="staging" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="ABISMIA-513-Service_Problem_Distribution_Report_Drilldown_is_getting_timed_out" />
+                    <option name="lastUsedInstant" value="1611744994" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="staging" />
+                    <option name="lastUsedInstant" value="1611744537" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="ABISMIA-488-ITSM-Create-Ticket-Predicted-SMS-API" />
+                    <option name="lastUsedInstant" value="1611735887" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$USER_HOME$/Desktop/smia/smia_local_staging/django" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ncY5CJdvqHUVPjAZSrJR2R619I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gakash\Documents\Tech_Test\Tech_Test" />
+      <recent name="C:\Users\gakash\Documents\Tech_Test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tech_Test" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Tech_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="122e7215-8f27-4418-a09b-00db82b7f090" name="Default Changelist" comment="" />
+      <created>1611690663640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611690663640</updated>
+      <workItem from="1611690667666" duration="3137000" />
+      <workItem from="1611693880293" duration="5913000" />
+      <workItem from="1611726034696" duration="37343000" />
+      <workItem from="1611785065653" duration="24000" />
+      <workItem from="1611785097834" duration="1694000" />
+      <workItem from="1611789866700" duration="114000" />
+      <workItem from="1611790000916" duration="1852000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changes for addition of items in NOTES (ITSM)">
+      <created>1611735765749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611735765750</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Code for Teachers Database">
+      <created>1611791243823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611791243823</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes for addition of items in NOTES (ITSM)" />
+    <MESSAGE value="Added Code for Teachers Database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Code for Teachers Database" />
+  </component>
+</project>

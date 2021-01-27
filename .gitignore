@@ -280,4 +280,7 @@ dmypy.json
 cython_debug/
 
 
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+
 
