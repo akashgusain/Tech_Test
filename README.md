@@ -55,4 +55,4 @@ Teachers to filtered by first letter of last name or by subject
 
 http://127.0.0.1:8000/api/teachers/?search=l
 
-search paramaters can be used 
+search paramaters can be used above by lastname or subject
