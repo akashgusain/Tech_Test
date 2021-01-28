@@ -45,9 +45,10 @@ And navigate to http://127.0.0.1:8000/api/swagger
 
 check all api listed in the Swagger UI
 
-login for accesing logged in user API's
+login for accesing logged in user API's (Djano Rest api are Browsable API - https://www.django-rest-framework.org/topics/browsable-api/#the-browsable-api)
 
 http://127.0.0.1:8000/admin/login/?next=/admin/
+
 
 
 Teachers to filtered by first letter of last name or by subject
