@@ -1,63 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="122e7215-8f27-4418-a09b-00db82b7f090" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Tech_Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/783e4d03-95d6-4ff0-90aa-1bb5b80d1dcd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/189a21f163cd0264f96541f18245634e31fc1133" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19359a61ae2446b51b549167b014da2fcf265768" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/427ebe8fe34e214945f295efd2f409f2f9a12226" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/444f0df80c5815717dd4c21b5430766e85cb3044" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/642a5418174789a062fd581cbac8de7239610fe6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82b22525c3fa3bdd19e1d1b3a9d5eb8b315af64f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92303719da99455690e3c1e819f2cc255107464c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e949f4291234a613cf62045973fd74b566c1ddbe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tech_Test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tech_Test/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tech_Test/routers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tech_Test/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tech_Test/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tech_Test/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tech_Test/yasg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/21167.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/21196.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/21230.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/21309.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/21350.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/21529.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/21530.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/21578.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/21635.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/21744.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/0002_auto_20210127_2246.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/0003_auto_20210127_2248.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/0004_auto_20210127_2250.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/0005_auto_20210127_2251.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/0006_auto_20210128_0224.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teacher_db/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="122e7215-8f27-4418-a09b-00db82b7f090" name="Default Changelist" comment="Added Code for Teachers Database">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +140,7 @@
       <workItem from="1611785065653" duration="24000" />
       <workItem from="1611785097834" duration="1694000" />
       <workItem from="1611789866700" duration="114000" />
-      <workItem from="1611790000916" duration="1852000" />
+      <workItem from="1611790000916" duration="2384000" />
     </task>
     <task id="LOCAL-00001" summary="Changes for addition of items in NOTES (ITSM)">
       <created>1611735765749</created>
@@ -210,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611791243823</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Code for Teachers Database">
+      <created>1611791932845</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611791932845</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
