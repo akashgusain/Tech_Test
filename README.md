@@ -48,7 +48,7 @@ Add subjects to DB
 
 http://127.0.0.1:8000/api/subjects/
 
-After Adding teachers into database, Add teachers
+After Adding subjects into database, Add teachers
 
 http://127.0.0.1:8000/api/teachers/
 
